@@ -1,0 +1,96 @@
+- generic [ref=f1e1]:
+  - link "Jump to content" [ref=f1e2] [cursor=pointer]:
+    - /url: "#bodyContent"
+  - banner [ref=f1e4]:
+    - generic [ref=f1e5]:
+      - navigation "Site" [ref=f1e6]:
+        - generic "Main menu" [ref=f1e7]:
+          - button "Main menu" [ref=f1e8] [cursor=pointer]
+          - generic [ref=f1e11]: Main menu
+      - link [ref=f1e12] [cursor=pointer]:
+        - /url: /wiki/Main_Page
+        - generic [ref=f1e13]:
+          - img "Wikipedia" [ref=f1e14]
+          - img "The Free Encyclopedia" [ref=f1e15]
+    - generic [ref=f1e16]:
+      - search [ref=f1e17]:
+        - link "Search" [ref=f1e18] [cursor=pointer]:
+          - /url: /wiki/Special:Search
+      - navigation "Personal tools" [ref=f1e21]:
+        - generic [ref=f1e22]:
+          - navigation "Appearance" [ref=f1e23]:
+            - generic "Change the appearance of the page's font size, width, and color" [ref=f1e24]:
+              - button "Appearance" [ref=f1e25] [cursor=pointer]
+              - generic [ref=f1e28]: Appearance
+          - list [ref=f1e31]:
+            - listitem [ref=f1e32]:
+              - link "Donate" [ref=f1e33] [cursor=pointer]:
+                - /url: https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+            - listitem [ref=f1e34]:
+              - link "Create account" [ref=f1e35] [cursor=pointer]:
+                - /url: /w/index.php?title=Special:CreateAccount&returnto=Special%3ASearch&returntoquery=go%3DGo%26search%3D
+            - listitem [ref=f1e36]:
+              - link "Log in" [ref=f1e37] [cursor=pointer]:
+                - /url: /w/index.php?title=Special:UserLogin&returnto=Special%3ASearch&returntoquery=go%3DGo%26search%3D
+  - generic [ref=f1e39]:
+    - main [ref=f1e41]:
+      - generic [ref=f1e42]:
+        - heading "Search" [level=1] [ref=f1e43]
+        - link "Help" [ref=f1e46] [cursor=pointer]:
+          - /url: /wiki/Help:Searching
+      - generic [ref=f1e49]:
+        - generic:
+          - navigation "Namespaces"
+        - generic [ref=f1e50]:
+          - navigation "Views"
+          - navigation "Page tools" [ref=f1e51]:
+            - generic [ref=f1e52]:
+              - button "Tools" [ref=f1e53] [cursor=pointer]
+              - generic [ref=f1e56]: Tools
+      - generic "Search" [ref=f1e57]:
+        - generic [ref=f1e65]:
+          - searchbox [active] [ref=f1e68]
+          - button "Search" [ref=f1e71] [cursor=pointer]
+    - contentinfo [ref=f1e73]:
+      - list:
+        - listitem [ref=f1e74]:
+          - link "Privacy policy" [ref=f1e75] [cursor=pointer]:
+            - /url: https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+        - listitem [ref=f1e76]:
+          - link "About Wikipedia" [ref=f1e77] [cursor=pointer]:
+            - /url: /wiki/Wikipedia:About
+        - listitem [ref=f1e78]:
+          - link "Disclaimers" [ref=f1e79] [cursor=pointer]:
+            - /url: /wiki/Wikipedia:General_disclaimer
+        - listitem [ref=f1e80]:
+          - link "Contact Wikipedia" [ref=f1e81] [cursor=pointer]:
+            - /url: //en.wikipedia.org/wiki/Wikipedia:Contact_us
+        - listitem [ref=f1e82]:
+          - link "Legal & safety contacts" [ref=f1e83] [cursor=pointer]:
+            - /url: https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Wikimedia_Foundation_Legal_and_Safety_Contact_Information
+        - listitem [ref=f1e84]:
+          - link "Code of Conduct" [ref=f1e85] [cursor=pointer]:
+            - /url: https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct
+        - listitem [ref=f1e86]:
+          - link "Developers" [ref=f1e87] [cursor=pointer]:
+            - /url: https://developer.wikimedia.org
+        - listitem [ref=f1e88]:
+          - link "Statistics" [ref=f1e89] [cursor=pointer]:
+            - /url: https://stats.wikimedia.org/#/en.wikipedia.org
+        - listitem [ref=f1e90]:
+          - link "Cookie statement" [ref=f1e91] [cursor=pointer]:
+            - /url: https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement
+        - listitem [ref=f1e92]:
+          - link "Mobile view" [ref=f1e93] [cursor=pointer]:
+            - /url: //en.wikipedia.org/w/index.php?title=Special:Search&go=Go&search=&mobileaction=toggle_view_mobile
+      - list [ref=f1e94]:
+        - listitem [ref=f1e95]:
+          - link [ref=f1e96] [cursor=pointer]:
+            - /url: https://www.wikimedia.org/
+            - img "Wikimedia Foundation" [ref=f1e98]
+        - listitem [ref=f1e99]:
+          - link [ref=f1e100] [cursor=pointer]:
+            - /url: https://www.mediawiki.org/
+            - img "Powered by MediaWiki" [ref=f1e102]
+  - generic [ref=f1e103]:
+    - list

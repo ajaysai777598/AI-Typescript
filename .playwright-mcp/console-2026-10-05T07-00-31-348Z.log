@@ -1,0 +1,95 @@
+[    7009ms] Identifier 'LocalStorageUtil' has already been declared
+[    7253ms] Identifier 'OneCloudUtil' has already been declared
+[    7256ms] Identifier 'OneCloudUtil' has already been declared
+[    7259ms] Identifier 'LocalStorageUtil' has already been declared
+[    7346ms] Identifier 'OneCloudUtil' has already been declared
+[    7348ms] Identifier 'LocalStorageUtil' has already been declared
+[    7356ms] Identifier 'OneCloudUtil' has already been declared
+[    7377ms] Identifier 'LocalStorageUtil' has already been declared
+[    7384ms] Identifier 'OneCloudUtil' has already been declared
+[    7385ms] Identifier 'LocalStorageUtil' has already been declared
+[    7393ms] Identifier 'OneCloudUtil' has already been declared
+[    7394ms] Identifier 'LocalStorageUtil' has already been declared
+[    7398ms] Identifier 'OneCloudUtil' has already been declared
+[    7458ms] Identifier 'LocalStorageUtil' has already been declared
+[    7461ms] Identifier 'OneCloudUtil' has already been declared
+[    7462ms] Identifier 'LocalStorageUtil' has already been declared
+[    7466ms] Identifier 'OneCloudUtil' has already been declared
+[    7470ms] Identifier 'LocalStorageUtil' has already been declared
+[    7475ms] Identifier 'OneCloudUtil' has already been declared
+[    7563ms] [LOG] 1DS Initialized.. @ https://www.microsoft.com/golf/etc.clientlibs/microsoft/components/structure/page/clientlibs/custom-oneds.ACSHASH2b7224aac4ea4007cb4436ebcdc8cec8.min.js:0
+[    7675ms] ReferenceError: describe is not defined
+    at D.<computed> (https://www.microsoft.com/golf/etc.clientlibs/cascade.component.authoring/clientlibs/clientlib-reimagine-telemetry.ACSHASHadf24cb28a59725b6e59e71efb7aa671.min.js:12:171)
+    at B (https://www.microsoft.com/golf/etc.clientlibs/cascade.component.authoring/clientlibs/clientlib-reimagine-telemetry.ACSHASHadf24cb28a59725b6e59e71efb7aa671.min.js:12:100)
+    at https://www.microsoft.com/golf/etc.clientlibs/cascade.component.authoring/clientlibs/clientlib-reimagine-telemetry.ACSHASHadf24cb28a59725b6e59e71efb7aa671.min.js:345:76
+    at https://www.microsoft.com/golf/etc.clientlibs/cascade.component.authoring/clientlibs/clientlib-reimagine-telemetry.ACSHASHadf24cb28a59725b6e59e71efb7aa671.min.js:345:83
+[    7962ms] [LOG] Clarity loaded @ https://www.microsoft.com/msonecloudapi/assets/msocbody.js:706
+[    8527ms] [LOG] MWF v2.8.1 @ https://www.microsoft.com/golf/etc.clientlibs/onecloud/clientlibs/clientlib-mwf-new/main-light.ACSHASHfe9d5283cc0a38f995b64bf0f39192eb.min.js:13154
+[    8812ms] [WARNING] [OCR][ProductPricingManager] creation error:  Error: [OCR][ProductPricingManager] Invalid pricing component element. Missing data-ocr-pricing-identifier or data-ocr-sku-request attribute.
+    at ProductPricingManager.findPricingRequestElement (https://www.microsoft.com/etc.clientlibs/onecloud/clientlibs/clientlib-product-pricing.ACSHASHf9c4f2ed4e61ec88e9a455f543919e32.min.js:2891:19)
+    at new ProductPricingRendering (https://www.microsoft.com/etc.clientlibs/onecloud/clientlibs/clientlib-product-pricing.ACSHASHf9c4f2ed4e61ec88e9a455f543919e32.min.js:2168:89)
+    at ProductPricingManager.createProductPriceRenderInstance (https://www.microsoft.com/etc.clientlibs/onecloud/clientlibs/clientlib-product-pricing.ACSHASHf9c4f2ed4e61ec88e9a455f543919e32.min.js:3123:13)
+    at ProductPricingManager.createProductPricingRequests (https://www.microsoft.com/etc.clientlibs/onecloud/clientlibs/clientlib-product-pricing.ACSHASHf9c4f2ed4e61ec88e9a455f543919e32.min.js:3044:30)
+    at ProductPricingManager.initializePricingManager (https://www.microsoft.com/etc.clientlibs/onecloud/clientlibs/clientlib-product-pricing.ACSHASHf9c4f2ed4e61ec88e9a455f543919e32.min.js:2710:14)
+    at new ProductPricingManager (https://www.microsoft.com/etc.clientlibs/onecloud/clientlibs/clientlib-product-pricing.ACSHASHf9c4f2ed4e61ec88e9a455f543919e32.min.js:2659:14)
+    at initializeProductPriceModule (https://www.microsoft.com/golf/etc.clientlibs/onecloud/clientlibs/clientlib-product-pricing.ACSHASHf9c4f2ed4e61ec88e9a455f543919e32.min.js:649:17)
+    at HTMLDocument.<anonymous> (https://www.microsoft.com/golf/etc.clientlibs/onecloud/clientlibs/clientlib-product-pricing.ACSHASHf9c4f2ed4e61ec88e9a455f543919e32.min.js:673:9) @ https://www.microsoft.com/etc.clientlibs/onecloud/clientlibs/clientlib-product-pricing.ACSHASHf9c4f2ed4e61ec88e9a455f543919e32.min.js:3045
+[    8972ms] [LOG] gpc opt-in @ https://www.microsoft.com/golf/etc.clientlibs/microsoft/clientlibs/cookie-compliance-manager.ACSHASHdec0d75e509be6ebf6b36ff24c516111.min.js:4
+[    8974ms] [LOG] Clarity consent granted @ https://www.microsoft.com/golf/etc.clientlibs/microsoft/clientlibs/cookie-compliance-manager.ACSHASHdec0d75e509be6ebf6b36ff24c516111.min.js:4
+[    8985ms] [INFO] [WC Visibility Fix] None of the target tags were found in the DOM. @ https://www.microsoft.com/msonecloudapi/assets/msocbody.js:734
+[    9094ms] [LOG] Clarity consent granted @ https://www.microsoft.com/golf/etc.clientlibs/microsoft/clientlibs/cookie-compliance-manager.ACSHASHdec0d75e509be6ebf6b36ff24c516111.min.js:4
+[    9168ms] [LOG] new condition found @ https://assets.adobedtm.com/launch-ENc0cbffaf0f8248c3a934a56818d7737e.min.js:9
+[    9642ms] [INFO] BSSO Telemetry: {"result":"Error","error":"NoExtension","type":"ChromeSsoTelemetry","data":{},"traces":["BrowserSSO Initialized","Creating ChromeBrowserCore provider","Sending message for method CreateProviderAsync","Received message for method CreateProviderAsync","Error: ChromeBrowserCore error NoExtension: Extension is not installed."]} @ https://aadcdn.msftauth.net/shared/1.0/content/js/BssoInterrupt_Core_8k_MLTH5HA-ha6OAu4vroQ2.js:17
+[   11108ms] Identifier 'OneCloudUtil' has already been declared
+[   11110ms] Identifier 'LocalStorageUtil' has already been declared
+[   11110ms] Identifier 'OneCloudUtil' has already been declared
+[   11112ms] Identifier 'OneCloudUtil' has already been declared
+[   11113ms] Identifier 'LocalStorageUtil' has already been declared
+[   11215ms] Identifier 'OneCloudUtil' has already been declared
+[   11217ms] Identifier 'LocalStorageUtil' has already been declared
+[   11221ms] Identifier 'OneCloudUtil' has already been declared
+[   11221ms] Identifier 'LocalStorageUtil' has already been declared
+[   11238ms] Identifier 'OneCloudUtil' has already been declared
+[   11239ms] Identifier 'LocalStorageUtil' has already been declared
+[   11245ms] Identifier 'OneCloudUtil' has already been declared
+[   11246ms] Identifier 'LocalStorageUtil' has already been declared
+[   11256ms] Identifier 'OneCloudUtil' has already been declared
+[   11257ms] Identifier 'LocalStorageUtil' has already been declared
+[   11261ms] Identifier 'OneCloudUtil' has already been declared
+[   11264ms] Identifier 'LocalStorageUtil' has already been declared
+[   11271ms] Identifier 'OneCloudUtil' has already been declared
+[   11272ms] Identifier 'LocalStorageUtil' has already been declared
+[   11335ms] [LOG] 1DS Initialized.. @ https://www.microsoft.com/golf/etc.clientlibs/microsoft/components/structure/page/clientlibs/custom-oneds.ACSHASH2b7224aac4ea4007cb4436ebcdc8cec8.min.js:0
+[   11380ms] ReferenceError: describe is not defined
+    at D.<computed> (https://www.microsoft.com/golf/etc.clientlibs/cascade.component.authoring/clientlibs/clientlib-reimagine-telemetry.ACSHASHadf24cb28a59725b6e59e71efb7aa671.min.js:12:171)
+    at B (https://www.microsoft.com/golf/etc.clientlibs/cascade.component.authoring/clientlibs/clientlib-reimagine-telemetry.ACSHASHadf24cb28a59725b6e59e71efb7aa671.min.js:12:100)
+    at https://www.microsoft.com/golf/etc.clientlibs/cascade.component.authoring/clientlibs/clientlib-reimagine-telemetry.ACSHASHadf24cb28a59725b6e59e71efb7aa671.min.js:345:76
+    at https://www.microsoft.com/golf/etc.clientlibs/cascade.component.authoring/clientlibs/clientlib-reimagine-telemetry.ACSHASHadf24cb28a59725b6e59e71efb7aa671.min.js:345:83
+[   11459ms] [LOG] Clarity loaded @ https://www.microsoft.com/msonecloudapi/assets/msocbody.js:706
+[   11614ms] [LOG] note request: [] @ https://publisher.liveperson.net/iframe-le-tag/iframe-cs.html?lpsite=60270350&lpsection=office365-leadgen-en-in&buttons=hiddenchat:497
+[   11720ms] [LOG] MWF v2.8.1 @ https://www.microsoft.com/golf/etc.clientlibs/onecloud/clientlibs/clientlib-mwf-new/main-light.ACSHASHfe9d5283cc0a38f995b64bf0f39192eb.min.js:13154
+[   11949ms] [WARNING] [OCR][ProductPricingManager] creation error:  Error: [OCR][ProductPricingManager] Invalid pricing component element. Missing data-ocr-pricing-identifier or data-ocr-sku-request attribute.
+    at ProductPricingManager.findPricingRequestElement (https://www.microsoft.com/etc.clientlibs/onecloud/clientlibs/clientlib-product-pricing.ACSHASHf9c4f2ed4e61ec88e9a455f543919e32.min.js:2891:19)
+    at new ProductPricingRendering (https://www.microsoft.com/etc.clientlibs/onecloud/clientlibs/clientlib-product-pricing.ACSHASHf9c4f2ed4e61ec88e9a455f543919e32.min.js:2168:89)
+    at ProductPricingManager.createProductPriceRenderInstance (https://www.microsoft.com/etc.clientlibs/onecloud/clientlibs/clientlib-product-pricing.ACSHASHf9c4f2ed4e61ec88e9a455f543919e32.min.js:3123:13)
+    at ProductPricingManager.createProductPricingRequests (https://www.microsoft.com/etc.clientlibs/onecloud/clientlibs/clientlib-product-pricing.ACSHASHf9c4f2ed4e61ec88e9a455f543919e32.min.js:3044:30)
+    at ProductPricingManager.initializePricingManager (https://www.microsoft.com/etc.clientlibs/onecloud/clientlibs/clientlib-product-pricing.ACSHASHf9c4f2ed4e61ec88e9a455f543919e32.min.js:2710:14)
+    at new ProductPricingManager (https://www.microsoft.com/etc.clientlibs/onecloud/clientlibs/clientlib-product-pricing.ACSHASHf9c4f2ed4e61ec88e9a455f543919e32.min.js:2659:14)
+    at initializeProductPriceModule (https://www.microsoft.com/golf/etc.clientlibs/onecloud/clientlibs/clientlib-product-pricing.ACSHASHf9c4f2ed4e61ec88e9a455f543919e32.min.js:649:17)
+    at HTMLDocument.<anonymous> (https://www.microsoft.com/golf/etc.clientlibs/onecloud/clientlibs/clientlib-product-pricing.ACSHASHf9c4f2ed4e61ec88e9a455f543919e32.min.js:673:9) @ https://www.microsoft.com/etc.clientlibs/onecloud/clientlibs/clientlib-product-pricing.ACSHASHf9c4f2ed4e61ec88e9a455f543919e32.min.js:3045
+[   12034ms] [LOG] gpc opt-in @ https://www.microsoft.com/golf/etc.clientlibs/microsoft/clientlibs/cookie-compliance-manager.ACSHASHdec0d75e509be6ebf6b36ff24c516111.min.js:4
+[   12034ms] [LOG] Clarity consent granted @ https://www.microsoft.com/golf/etc.clientlibs/microsoft/clientlibs/cookie-compliance-manager.ACSHASHdec0d75e509be6ebf6b36ff24c516111.min.js:4
+[   12040ms] [INFO] [WC Visibility Fix] None of the target tags were found in the DOM. @ https://www.microsoft.com/msonecloudapi/assets/msocbody.js:734
+[   12102ms] [LOG] Clarity consent granted @ https://www.microsoft.com/golf/etc.clientlibs/microsoft/clientlibs/cookie-compliance-manager.ACSHASHdec0d75e509be6ebf6b36ff24c516111.min.js:4
+[   12167ms] [LOG] new condition found @ https://assets.adobedtm.com/launch-ENc0cbffaf0f8248c3a934a56818d7737e.min.js:9
+[   14589ms] [LOG] message received from parent page @ https://publisher.liveperson.net/iframe-le-tag/iframe-cs.html?lpsite=60270350&lpsection=office365-leadgen-en-in&buttons=hiddenchat:760
+[   14639ms] [LOG] message received from parent page @ https://publisher.liveperson.net/iframe-le-tag/iframe-cs.html?lpsite=60270350&lpsection=office365-leadgen-en-in&buttons=hiddenchat:760
+[   15038ms] [LOG] message received from parent page @ https://publisher.liveperson.net/iframe-le-tag/iframe-cs.html?lpsite=60270350&lpsection=office365-leadgen-en-in&buttons=hiddenchat:760
+[   17680ms] [LOG] ext JS_in init @ https://lptag.liveperson.net/lptag/api/account/60270350/configuration/applications/taglets/.jsonp?v=2.0&df=undefined&s=office365-leadgen-en-in&b=undefined:0
+[   17680ms] [LOG] ext JS_in addexternalscript @ https://lptag.liveperson.net/lptag/api/account/60270350/configuration/applications/taglets/.jsonp?v=2.0&df=undefined&s=office365-leadgen-en-in&b=undefined:0
+[   17680ms] [LOG] ext JS_in valid check @ https://lptag.liveperson.net/lptag/api/account/60270350/configuration/applications/taglets/.jsonp?v=2.0&df=undefined&s=office365-leadgen-en-in&b=undefined:0
+[   17681ms] [LOG] ext JS_in_if function @ https://lptag.liveperson.net/lptag/api/account/60270350/configuration/applications/taglets/.jsonp?v=2.0&df=undefined&s=office365-leadgen-en-in&b=undefined:0
+[   17681ms] [LOG] ext JS_after add @ https://lptag.liveperson.net/lptag/api/account/60270350/configuration/applications/taglets/.jsonp?v=2.0&df=undefined&s=office365-leadgen-en-in&b=undefined:0
+[   22089ms] [LOG] LP storageType: indexedDB @ https://publisher.liveperson.net/iframe-le-tag/iframe-cs.html?lpsite=60270350&lpsection=office365-leadgen-en-in&buttons=hiddenchat:652
+[   22089ms] [LOG] storage type set @ https://publisher.liveperson.net/iframe-le-tag/iframe-cs.html?lpsite=60270350&lpsection=office365-leadgen-en-in&buttons=hiddenchat:653
+[   23097ms] [LOG] lpButton detected @ https://publisher.liveperson.net/iframe-le-tag/iframe-cs.html?lpsite=60270350&lpsection=office365-leadgen-en-in&buttons=hiddenchat:2962
