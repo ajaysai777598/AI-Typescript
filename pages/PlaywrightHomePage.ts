@@ -11,7 +11,7 @@ export class PlaywrightHomePage {
 
   async open(): Promise<void> {
     await this.page.goto('https://playwright.dev/');
-  }
+  } 
 
   async openGettingStarted(): Promise<void> {
     await this.getStartedLink.click();
